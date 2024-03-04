@@ -1,5 +1,6 @@
 {
   "webhook": "https://discord.com/api/webhooks",
   "watch_speed": 3,
-  "game_ids": [15912933126,5373028495,11959313479]
+  "game_ids": [15912933126,5373028495,11959313479],
+  "roblosecurityCookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_"
 }
